@@ -60,4 +60,5 @@ body{
 }
 .cruz:hover{
     color: #e12525;
+    cursor:pointer;
 }
